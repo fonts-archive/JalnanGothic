@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Jalnan Gothic';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/JalnanGothic/JalnanGothic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JalnanGothic/JalnanGothic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JalnanGothic/JalnanGothic.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/JalnanGothic/JalnanGothic.ttf') format('truetype');
+}
