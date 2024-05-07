@@ -7,7 +7,7 @@
 ### CSS
 
 ```
-font-family: 'Jalnan Gothic';
+font-family: 'Jalnan Gothic', sans-serif;
 ```
 
 &nbsp;
@@ -32,7 +32,7 @@ font-family: 'Jalnan Gothic';
 
 ```
 @font-face {
-    font-family: 'Jalnan Gothic';
+    font-family: 'Jalnan Gothic', sans-serif;
     font-weight: normal;
     font-style: normal;
     font-display: swap;
